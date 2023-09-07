@@ -34,4 +34,4 @@ Skills: Python / JS / REACT / SVELTE/ HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=seracoder)  
 
-![Profile views](https://gpvc.arturio.dev/seracoder)  
+[![](https://visitcount.itsvg.in/api?id=seracoder&icon=0&color=0)](https://visitcount.itsvg.in)
