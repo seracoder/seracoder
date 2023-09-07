@@ -28,10 +28,4 @@ Skills: Python / JS / REACT / SVELTE/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seracoder&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seracoder)  
-
-![GitHub metrics](https://metrics.lecoq.io/seracoder)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=seracoder)  
-
 [![](https://visitcount.itsvg.in/api?id=seracoder&icon=0&color=0)](https://visitcount.itsvg.in)
