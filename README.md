@@ -26,4 +26,3 @@ Skills: Python / JS / REACT / SVELTE/ HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seracoder)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seracoder&show_icons=true&count_private=true)  
