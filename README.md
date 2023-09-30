@@ -1,6 +1,5 @@
-![Full-Stack Developer](https://raw.githubusercontent.com/seracoder/seracoder/main/coding.gif)
-### Hi there 👋, I'm Hamim Hossain
-#### A Full-Stack Developer
+![Full-Stack Developer](./coding.gif)
+![Header](./github-header-image.png)
 
 🌐 Full-Stack Skills:
 - 💻 Front-End: HTML, CSS, JavaScript, React, Svelte
